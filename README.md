@@ -27,7 +27,7 @@ Agora cada uma das pessoas do grupo deve adicionar a seguinte frase no arquivo R
 
 ### Crie uma nova versão 
 
-`git commit -m "{seu-nome-aqui}: nova versão"
+`git commit -m "{seu-nome-aqui}: nova versão"`
 
 ### Publique sua nova versão
 
